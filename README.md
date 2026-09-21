@@ -14,6 +14,6 @@ Entry-level opportunities in IT where I can learn, build and grow.
 ## 🛠️ Skills
 - Python
 - Excel
-
-## 📫 Contact
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/umanithya
 - Email: umanithya73@gmail.com
